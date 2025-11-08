@@ -1,3 +1,7 @@
+// exceeds the core requirements by:
+// 1. Including a variety of creative prompts that encourage deeper reflection.
+// 5. Providing clear user feedback and input validation to improve the user experience.
+
 using System;
 
 class Program
